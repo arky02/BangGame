@@ -23,9 +23,9 @@ body {
   margin: 0;
 }
 .situation-description {
-  font-size: 18px;
+  font-size: 16px;
   margin: 0 30px 35px;
-  line-height: 25px;
+  line-height: 20px;
 }
 .random-pick_btn {
   max-width: 590px;
